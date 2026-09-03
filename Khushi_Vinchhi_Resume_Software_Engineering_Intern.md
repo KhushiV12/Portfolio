@@ -5,7 +5,7 @@
 ---
 
 ### PROFESSIONAL SUMMARY
-Adaptable software engineer with a strong foundation in Object-Oriented design and modern web interfaces, passionate about translating business needs into reliable software tools. Combines high analytical precision (8.76 CGPA) with clear stakeholder communication to assist leadership in configuring core systems, testing new features, and optimizing daily operational workflows. Leverages AI tools (ChatGPT, Gemini, Claude) for efficient document synthesis and research with diligent source validation.
+Problem-solving developer passionate about building clean internal tools, operational dashboards, and automated workflows that simplify business operations. Experienced in developing custom components in C#/.NET and backend logic in Java and SQL, with a habit of leveraging AI tools (ChatGPT, Gemini, Claude) to rapidly synthesize technical documents and validate source data. Eager to support leadership in configuring core systems, testing new features, and delivering reliable technical solutions.
 
 ---
 
