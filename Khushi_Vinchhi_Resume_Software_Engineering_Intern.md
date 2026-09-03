@@ -5,7 +5,7 @@
 ---
 
 ### PROFESSIONAL SUMMARY
-Enthusiastic and analytical Computer Science graduate currently pursuing a **Master of Engineering in Software Systems at BITS Pilani, Dubai Campus** (B.E. CGPA: 8.76/10.0). Proven track record in developing internal tools, custom accounting systems, and interactive dashboards utilizing **C#, .NET Blazor, Java, SQL Server, and Python basics**. Adept at leveraging **AI productivity tools (ChatGPT, Gemini, Claude)** to accelerate technical research, synthesize complex documents, and streamline system workflows while diligently validating data accuracy against primary sources. Combines hands-on coding, structured problem-solving, and strong stakeholder communication to build, test, and document operational business solutions.
+Motivated Computer Science graduate and M.E. Software Systems student at **BITS Pilani, Dubai Campus** (B.E. CGPA: 8.76/10.0) with hands-on experience in internal tools, accounting systems, and dashboard development using **Java, C#, .NET Blazor, SQL, and Python basics**. Experienced in system configuration, QA testing, and technical documentation from an internship at AEDit Software. Skilled at leveraging **AI tools (ChatGPT, Gemini, Claude)** for rapid research and document synthesis with diligent source validation; eager to support operational systems and executive workflows as a Software Engineering Intern.
 
 ---
 
