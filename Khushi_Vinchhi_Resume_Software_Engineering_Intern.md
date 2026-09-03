@@ -5,7 +5,7 @@
 ---
 
 ### PROFESSIONAL SUMMARY
-Motivated Computer Science graduate and M.E. Software Systems student at **BITS Pilani, Dubai Campus** (B.E. CGPA: 8.76/10.0) with hands-on experience in internal tools, accounting systems, and dashboard development using **Java, C#, .NET Blazor, SQL, and Python basics**. Experienced in system configuration, QA testing, and technical documentation from an internship at AEDit Software. Skilled at leveraging **AI tools (ChatGPT, Gemini, Claude)** for rapid research and document synthesis with diligent source validation; eager to support operational systems and executive workflows as a Software Engineering Intern.
+Adaptable software engineer with a strong foundation in Object-Oriented design and modern web interfaces, passionate about translating business needs into reliable software tools. Combines high analytical precision (8.76 CGPA) with clear stakeholder communication to assist leadership in configuring core systems, testing new features, and optimizing daily operational workflows. Leverages AI tools (ChatGPT, Gemini, Claude) for efficient document synthesis and research with diligent source validation.
 
 ---
 
